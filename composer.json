@@ -1,0 +1,16 @@
+{
+    "name": "shohan/oop",
+    "description": "PHP OOP Project",
+    "authors": [
+        {
+            "name": "Shohanur Rahman",
+            "email": "shohanur.rahman57@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "public"
+        }
+    },
+    "require": {}
+}
